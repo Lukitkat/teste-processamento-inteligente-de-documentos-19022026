@@ -1,0 +1,181 @@
+--- Page 1 ---
+Nota Fiscal
+JOAO NEVES Conta de Energia Elétrica
+PCA DOUTOR GONCALVES 379 CS 802 Nº 330122222273 Série C
+Data de Emissão: 27/10/2023
+CENTRO
+Data de Apresentação: 01/11/2023
+35570-000 VICOSA MG Pág: 01 de 01
+Conta Contrato N° 11111111111171
+Leitura Próximo Mês: 28/11/2023
+Lote Roteiro de leitura N°. Medidor PN Reservado ao Fisco
+18 R090-00000000 22115555001 986654521
+Cuidado com golpes! Ao pedir a segunda via da sua conta, confira se você está no site oficial da CPFL: www.cpfl.com.br. Os valores de CDE Escassez Hídrica estão informados na
+fatura REN 1008/22/ANEEL. Mais em www.cpfl.com.br/escassez-hidrica.
+JOAO NEVES CPF: 715.665.976-13
+PCA DOUTOR GONCALVES 379 CS 802 CLASSIFICAÇÃO: Convencional B1 Residencial - Bifásico 220 / 127 V
+CENTRO
+35570-000 VICOSA MG
+0800 010 1010 986654521 INSTALAÇÃO OUT/2023 28/11/2023 219,14
+www.cpfl.com.br 12385675
+Cod. Descrição da Operação Mês Quant. Unid. Tarifa com Valor Total Base Cálculo Aliq. ICMS Base Cálculo PIS COFINS Bandeiras
+115 N° 906654025257 Ref. Faturada Med. Tributos R$ da Operação ICMS R$ ICMS PIS/COFINS 0,79% 3,65% Tarifárias
+R$ (Dias)
+0605Energia Ativa Fornecida - TUSD OUT/23 2.000,000 kWh 0,47425000 948,50 948,50 18,00 170,73 777,77 6,14 28,39 Verde
+0601Energia Ativa Fornecida - TE OUT/23 2.000,000 kWh 0,40689500 813,79 813,79 18,00 146,48 667,31 5,27 24,36 03 Dias
+0605Energ Atv Inj. oUC mPT - TUSD JUL/23 1.165,120 kWh 0,38888702 453,10- 453,10- 3,58- 16,54- Verde
+0605Energ Atv Inj. oUC mPT - TUSD JUN/23 784,880 kWh 0,38888743 305,23- 305,23- 2,41- 11,14- 27 Dias
+0601Energ Atv Inj. oUC mPT - TE JUL/23 1.165,120 kWh 0,40690233 474,09- 474,09- 18,00 85,34- 388,75- 3,07- 14,19-
+0601Energ Atv Inj. oUC mPT - TE JUN/23 784,880 kWh 0,40689018 319,36- 319,36- 18,00 57,48- 261,88- 2,07- 9,56-
+Total Distribuidora 210,51
+DÉBITOS DE OUTROS SERVIÇOS
+0807Contrib. Custeio IP-CIP Municipal OUT/23 8,63
+Informação CDE Escassez Hídrica
+CDE Escassez Hídrica - TUSD 11,28
+CDE Escassez Hídrica - TE 9,22
+Total Consolidado 219,14 968,84 174,39 36,12 0,28 1,32
+2023 OUT llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 2000 30 Consumo TUSD TE Nº Energia Leitura Leitura Fator ConsumoTaxa de Perda Leitura
+SET llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 1821 30 Consumo kWh 0,37162000 0,31884000 27/10/202327/09/2023 Multipl. [kWh] [%] Próximo Mês
+AGO llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 1927 32 22115555001 Ativa 17242 15242 1,00 2.000 28/11/2023
+JUL lllllllllllllllllllllllllllllllllllllllllllllllllll 1545 30
+JUN lllllllllllllllllllllllllllllllllllllllllllllllllll 1527 29
+MAI lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 1946 32
+ABR lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 1898 30
+MAR llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 1869 29
+F
+JA
+E
+N
+V l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+lllllllllllllllllllll 2
+1
+2
+6
+5
+2
+8
+1
+3
+2
+2
+8
+2022 DEZ lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 1962 31 Para consulta dos indicadores acesse nosso site www.cpfl.com.br
+NOV lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 2252 32
+OUT llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll 1853 30
+Saldo em Energia da Instalação: Convencional 3.606,9002236746 kWh
+Saldo a expirar próximo mês: 0,0000000000 kWh
+Participação na geração 1.0400%
+Nota Fiscal CódDébAut-Banco Total a Pagar (R$) Data de Vencimento
+Conta de Energia Elétrica 1111111333 219,14 28/11/2023
+Nº 330122222273 Série C
+Essa conta poderá ser paga no credenciado mais perto de você. Confira a lista completa no site
+Pague aqui - PIX
+000700000026 122201111122 1234285129034 100735547711 Autenticação Mecânica
+

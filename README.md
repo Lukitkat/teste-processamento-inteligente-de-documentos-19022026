@@ -31,7 +31,37 @@ Organize a saída e visualização das informações extraídas.
 
 # Documentação do Teste 1
 
-Escreva aqui a documentação do desenvolvimento do teste 1.
+### Solução Desenvolvida (`read.py`)
+
+O script `read.py` foi desenvolvido para extrair automaticamente os dados solicitados da fatura `fatura_cpfl.pdf`.
+
+#### Dependências
+
+O projeto utiliza a biblioteca `pdfplumber` para a leitura de arquivos PDF.
+Para instalar as dependências, execute:
+
+```bash
+pip install pdfplumber
+```
+
+#### Como Executar
+
+Certifique-se de que o arquivo `fatura_cpfl.pdf` esteja no mesmo diretório do script.
+Para rodar a extração, execute o seguinte comando no terminal:
+
+```bash
+python read.py
+```
+
+#### Saída do Script
+
+O script exibirá no console os dados extraídos formatados, incluindo:
+- Dados do Titular (Nome, Documento)
+- Endereço e Classificação da Instalação
+- Valores Monetários (Total a Pagar, Tarifas consolidadas, Operações)
+- Consumo e Energias Compensadas
+- Dados Bancários (Linha Digitável)
+
 
 # Teste 2
 
@@ -45,7 +75,47 @@ Atividade: Analise a fatura e redija um documento respondendo os pontos abaixo. 
  - Identifique o consumo da instalação referente ao mês de julho de 2023.
 
 # Resposta para o Teste 2
-Escreva aqui suas respostas para o teste 2.
+
+1. Principais Diferenças
+
+    A fatura fatura_cemig.pdf pertence a uma unidade consumidora que faz parte de um sistema de compensação de energia. Devido a isso, ela apresenta abatimentos por geração de energia, como o item "Energia compensada GD II". Por outro lado, a fatura fatura_cemig_convencional.pdf realiza a cobrança integral dos 374 kWh registrados através de um único item faturado de "Energia Elétrica".
+    
+
+    A modalidade de fornecimento e faturamento da fatura_cemig.pdf está classificada como sistema "Bifásico". Na fatura convencional, a subclassificação de fornecimento consta como "Monofásico".
+
+
+    O valor cobrado na fatura com compensação totalizou R$ 76,66. A fatura convencional gerou um montante financeiro muito maior, com o valor a pagar de R$ 418,02.
+
+
+    A fatura convencional traz o indicativo no cabeçalho de que se trata de uma "SEGUNDA VIA". O documento convencional também informa que foi uma nota "Emitida em Contingência".
+
+2. Termos e Valores da Seção "Valores Faturados" (fatura_cemig.pdf)
+
+    Energia Elétrica: Representa a cobrança de um montante de 50 kWh. O valor faturado referente a este bloco de energia foi de R$ 47,96.
+
+    Energia SCEE s/ ICMS: Corresponde à energia proveniente da rede da distribuidora que foi consumida, totalizando 149 kWh. A cobrança financeira por este consumo foi de R$ 76,26.
+
+    Energia compensada GD II: Refere-se à energia gerada pelo próprio sistema da residência (Geração Distribuída) que foi usada para abater o consumo de 149 kWh. Esse abatimento resultou em um desconto (crédito) na fatura de -R$ 67,24.
+
+    Energia comp. adicional: Indica uma compensação secundária de energia no montante de 7 kWh. Essa quantia gerou um abatimento extra de -R$ 5,24.
+
+    Bônus Itaipu art 21 Lei 10438: Trata-se de um crédito legal repassado ao consumidor, gerando um desconto de -R$ 9,79.
+
+    Ass Combt Câncer (37)3512-1528: Refere-se a um serviço de terceiros ou doação voluntária cobrada na conta, no valor de R$ 10,00.
+
+    Contrib Ilum Publica Municipal: É a taxa de Custeio do Serviço de Iluminação Pública (CIP/COSIP) cobrada pelo município, correspondendo a R$ 24,71.
+
+    TOTAL: A soma de todas as tarifas, descontos e doações resultou no valor final de R$ 76,66.
+
+3. A Informação Mais Importante sobre a Compensação
+
+    Na seção "Informações Gerais", o dado mais relevante para o sistema de Geração Distribuída é o indicativo: "SALDO ATUAL DE GERAÇÃO: 234,63 kWh.".
+
+    Explicação: Além da própria confirmação de que a "Unidade faz parte de sistema de compensação de energia", o saldo é a informação financeira mais importante. Ele indica que o sistema próprio produziu mais energia do que a casa consumiu no ciclo atual, e que existem 234,63 kWh de energia "sobrando" e estocados como crédito na concessionária. Esse montante fica disponível para ser utilizado em faturas futuras onde o consumo seja maior que a geração, ajudando a manter a conta de luz no valor mínimo.
+
+4. Consumo Referente a Julho de 2023
+
+    De acordo com o quadro de "Histórico de Consumo", o total registrado no mês de JUL/23 foi de 199 kWh. A tabela que detalha o tipo de medição também confirma que a leitura atual de energia resultou em um consumo de 199 kWh.
 
 # Requisitos dos Desafios:
 
